@@ -52,6 +52,7 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,joplin
 
 # GFW list
 DOMAIN-SUFFIX,030buy.com
