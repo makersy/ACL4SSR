@@ -5855,3 +5855,6 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
+
+# typora
+DOMAIN-SUFFIX,typora.io
