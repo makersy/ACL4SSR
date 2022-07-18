@@ -5865,3 +5865,6 @@ DOMAIN-SUFFIX,byrut.org
 # libiary
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-KEYWORD,1lib
+
+# doc
+DOMAIN-SUFFIX,docs4dev.com
