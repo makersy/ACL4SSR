@@ -5861,3 +5861,7 @@ DOMAIN-SUFFIX,typora.io
 
 # Game
 DOMAIN-SUFFIX,byrut.org
+
+# libiary
+DOMAIN-SUFFIX,z-lib.org
+DOMAIN-KEYWORD,1lib
