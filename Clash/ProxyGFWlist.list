@@ -5992,6 +5992,7 @@ DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,docs4dev.com
+DOMAIN-SUFFIX,mirror.xyz
 
 # Discord
 DOMAIN-SUFFIX,discord.co
