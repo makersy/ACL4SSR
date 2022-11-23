@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,mpyit.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
+DOMAIN-SUFFIX,b2c.srv
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
