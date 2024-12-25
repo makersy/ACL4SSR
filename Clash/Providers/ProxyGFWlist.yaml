@@ -57,6 +57,7 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,fastlink
+  - DOMAIN-KEYWORD,huggingface
 
   # GFW list
   - DOMAIN-SUFFIX,gfwlist.start
