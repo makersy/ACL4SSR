@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-KEYWORD,huggingface
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-KEYWORD,perplexity
+DOMAIN-SUFFIX,cursor.com,PROXY
+DOMAIN-SUFFIX,cursor.sh,PROXY
