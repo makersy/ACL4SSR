@@ -146,6 +146,9 @@ DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbonow.com
 
+# naver
+DOMAIN-SUFFIX,naver.com
+
 # HBO_GO_HKG
 USER-AGENT,HBO%20GO%20PROD*
 DOMAIN-KEYWORD,.hbogoasia.
